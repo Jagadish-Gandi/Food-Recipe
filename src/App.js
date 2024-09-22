@@ -5,7 +5,7 @@ import Navbar from "./components/navbar";
 import Home from "./pages/home";
 import Favorites from "./pages/favorites";
 import Details from "./pages/details";
-
+//this is main file
 function App() {
   return (
     <div>
